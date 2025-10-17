@@ -1,0 +1,13 @@
+#+TITLE: Plug
+#+AUTHOR: xsoder
+#+OPTIONS: num:nil toc:nil timestamp:nil
+#+HTML_HEAD: <style type="text/css"> body { max-width: 800px; margin: auto; }</style>
+
+* Plug
+This is a text editor I want to make as a hobby project for me to use on a daily basis and for me to learn aboout framework like SDL3 and more I am very new to this so I will be documenting the whole journey without unhinghed cuts and stuff this is actually going to be my journey of using SDL3.
+Hope I can make it as good as I want it to be.
+
+** Libraries I intend to use
+
+- SDL3
+- QUICK-UI(An Immediate mode UI library That I built)
