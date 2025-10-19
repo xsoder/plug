@@ -11,3 +11,4 @@ Hope I can make it as good as I want it to be.
 
 - SDL3
 - QUICK-UI(An Immediate mode UI library That I built)
+- SDL3 Was so much of a pain to use compared to raylib ie I am switching
